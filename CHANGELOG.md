@@ -11,6 +11,7 @@
 - README.md
 - LICENSE file
 - queries.md file - update Lesson 1 queries
+- queries.md file - update Lesson 2 query
 
 ## [0.0.1] (March 11 2022)
 

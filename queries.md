@@ -10,13 +10,13 @@ from family_members;
 ```sql
 select id, name, gender, species, num_books_read
 from family_members;
-
 ```
 
 ## Lesson 2
 
 ```sql
-select name, species from family_members;
+select name, species
+from family_members;
 ```
 
 ## Lesson 3
