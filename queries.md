@@ -30,7 +30,15 @@ where species = 'dog';
 ## Lesson 4
 
 ```sql
-select * from family_members where num_books_read > 190;
+select *
+from family_members
+where num_books_read > 190;
+```
+
+```sql
+select id, name, gender, species, num_books_read
+from family_members
+where num_books_read > 190;
 ```
 
 ## Lesson 5

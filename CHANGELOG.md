@@ -13,6 +13,7 @@
 - queries.md file - update Lesson 1 queries
 - queries.md file - update Lesson 2 query
 - queries.md file - update Lesson 3 query
+- queries.md file - update Lesson 4 queries
 
 ## [0.0.1] (March 11 2022)
 
