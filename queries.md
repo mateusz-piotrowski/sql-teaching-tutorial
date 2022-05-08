@@ -3,7 +3,14 @@
 ## Lesson 1
 
 ```sql
-select * from family_members;
+select *
+from family_members;
+```
+
+```sql
+select id, name, gender, species, num_books_read
+from family_members;
+
 ```
 
 ## Lesson 2
