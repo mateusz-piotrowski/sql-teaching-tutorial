@@ -22,7 +22,9 @@ from family_members;
 ## Lesson 3
 
 ```sql
-select * from family_members where species = 'dog';
+select *
+from family_members
+where species = 'dog';
 ```
 
 ## Lesson 4
