@@ -2,6 +2,10 @@
 
 ## [0.0.2] (May 10 2022)
 
+**Added :**
+
+- queries.md
+
 **Updated :**
 
 - README.md
