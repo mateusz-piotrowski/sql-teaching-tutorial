@@ -58,7 +58,17 @@ where num_books_read >= 180;
 ## Lesson 6
 
 ```sql
-select * from friends_of_pickles where species = 'dog' and height_cm < 45;
+select *
+from friends_of_pickles
+where species = 'dog'
+and height_cm < 45;
+```
+
+```sql
+select id, name, gender, species, height_cm
+from friends_of_pickles
+where species = 'dog'
+and height_cm < 45;
 ```
 
 ## Lesson 7
