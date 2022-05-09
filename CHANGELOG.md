@@ -1,6 +1,12 @@
 # The Changelog
 
-## [0.0.2] (May 10 2022)
+## [0.0.3] (May 09 2022)
+
+**Updated :**
+
+- queries.md file - update Lesson 7 queries
+
+## [0.0.2] (May 08 2022)
 
 **Added :**
 
