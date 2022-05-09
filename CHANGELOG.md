@@ -5,6 +5,7 @@
 **Updated :**
 
 - queries.md file - update Lesson 7 queries
+- queries.md file - update Lesson 8 queries
 
 ## [0.0.2] (May 08 2022)
 

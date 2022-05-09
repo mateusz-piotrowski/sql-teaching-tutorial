@@ -90,8 +90,28 @@ or height_cm < 45;
 ## Lesson 8
 
 ```sql
-select * from friends_of_pickles where species != 'dog' and species != 'cat';
-select * from friends_of_pickles where species not in ('dog', 'cat');
+select *
+from friends_of_pickles
+where species != 'dog'
+and species != 'cat';
+```
+
+```sql
+select *
+from friends_of_pickles
+where species not in ('dog', 'cat');
+```
+
+```sql
+select id, name, gender, species, height_cm
+from friends_of_pickles
+where species not in ('dog', 'cat');
+```
+
+```sql
+select id, name, gender, species, height_cm
+from friends_of_pickles
+where species in ('human');
 ```
 
 ## Lesson 9
